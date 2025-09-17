@@ -46,5 +46,5 @@ Frontend: Django Templates (HTML, CSS, Bootstrap)
 👨‍💻 Author
 <b>PAL MIYANI</b>
 
-GitHub: palmiyani
+<b>GitHub: palmiyani</b>
 
