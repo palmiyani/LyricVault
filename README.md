@@ -43,7 +43,7 @@ Database: SQLite
 
 Frontend: Django Templates (HTML, CSS, Bootstrap)
 
-👨‍💻 Author
+👨‍💻 <b>Author</b>
 <b>PAL MIYANI</b>
 
 <b>GitHub: palmiyani</b>
